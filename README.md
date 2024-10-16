@@ -9,6 +9,7 @@ AHRS를 위한 다양한 추정 알고리즘이 존재 하지만,
    
    Quaternion rate accumulation
 3) Vector observation기반 자세 추정
+   
    Madgwich filter
 5) Complementary filter
 6) Quaternion기반 Kalman filter
