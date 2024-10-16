@@ -5,12 +5,14 @@ AHRS를 위한 다양한 추정 알고리즘이 존재 하지만,
 
 여기서 다루고 있는 AHRS는 다음과 같습니다.
 1) Accumulation기반 자세 추정
+   
 -. Euler angular rate accumulation
 -. Quaternion rate accumulation
-2) Vector observation기반 자세 추정
--. Magdwich filter
-3) Complementary filter
-4) Quaternion기반 Kalman filter
-5) Euler angle 기반 Extende Kalman filter
-6) Euler angle 기반 Unscented Kalman filter
-7) Quaternion 기반 Unscented Kalman filter 
+3) Vector observation기반 자세 추정
+
+-. Madgwich filter
+4) Complementary filter
+5) Quaternion기반 Kalman filter
+6) Euler angle 기반 Extende Kalman filter
+7) Euler angle 기반 Unscented Kalman filter
+8) Quaternion 기반 Unscented Kalman filter 
